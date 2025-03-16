@@ -5,7 +5,6 @@
 
 ![image](profile.png)
 
-## Theoretical Systems Biology | Postdoctoral Research Fellow  
 ### ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems (MACSYS)  
 ### University of Melbourne 
 
