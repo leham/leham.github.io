@@ -11,13 +11,21 @@ tags = ["syntax", "code", "image"]
 # Teaching and Supervision
 ## Supervision
 
+
 ### Current Students
 - **Taylor Woodward** (PhD Candidate)
 - **Yujing Liu** (PhD Candidate)
 
-### Alumni
+### Research Associates
+- **Tom Cummings**
+- **Yang Zhao**
+
+  Co-mentored research associates on the project *Clone wars: predicting clonal diversity in resistance to CAR-T cell immunotherapy*
+
+### Past Students
 - **Dr. Megan Coomer** (2019-2023)  
-  Co-supervised to completion. Megan is now co-founder of the venture capital-backed deep tech company [Cell Bauhaus](https://cellbauhaus.com).
+
+  Co-supervised to completion (with Prof Michael P.H. Stumpf). Megan is now co-founder of the venture capital-backed deep tech company [Cell Bauhaus](https://cellbauhaus.com).
 
 
 ## Current Teaching 

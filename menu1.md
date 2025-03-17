@@ -61,6 +61,8 @@ tags = ["publications", "research", "academic"]
 - **2016**  
 
   **L. Ham**, *A gap trichotomy for Boolean constraint problems: extending Schaefer’s Theorem*, *27th International Symposium on Algorithms and Computation (ISAAC 2016)*, **36:1-36:12**.  
-  
-
 ---
+# PhD Thesis 
+
+- [Definability and complexity: Universal Horn classes of finite structures](https://opal.latrobe.edu.au/articles/thesis/Definability_and_complexity_Universal_Horn_classes_of_finite_structures/21857334?file=38787465)
+  **Supervisors:** Prof Brian Davey and Prof Tomasz Kowalski
