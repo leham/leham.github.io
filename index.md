@@ -5,7 +5,7 @@
 
 ![image](profile.png)
 
-I am a senior postdoctoral researcher at the ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems (MACSYS) at the University of Melbourne. My research bridges mathematics, computational biology, and theoretical biophysics, with a particular focus on developing mathematical models to understand complex biological systems.
+I am a senior postdoctoral researcher at the ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems (MACSYS) at the University of Melbourne and a member of the [Theoretical Systems Biology](https://theosysbio.org/team/) group. My research bridges mathematics, computational biology, and theoretical biophysics, with a particular focus on developing mathematical models to understand complex biological systems.
 
 My work primarily explores the control mechanisms governing stochastic gene regulatory and signaling processes that influence cell fate decisions. By combining mathematical theory with computational approaches, I aim to uncover the fundamental principles underlying molecular networks and their role in cellular function and development. 
 
@@ -14,7 +14,8 @@ With a PhD in pure mathematics—spanning logic, algebra, and theoretical comput
 
 
 ## Contact
-- Email: [lucy.ham@unimelb.edu.au](mailto:lucy.ham@unimelb.edu.au)  
+- [Email](mailto:lucy.ham@unimelb.edu.au)  
+- [Google Scholar](https://scholar.google.com.au/citations?user=F32lPnQAAAAJ&hl=en)  
 - [LinkedIn](https://linkedin.com/in/lucy-ham-6a72283b)
 
 
