@@ -1,7 +1,7 @@
 @def title = "Lucy Ham"
 @def tags = ["syntax", "code"]
 
-# Lucy Ham | Theoretical Systems Biology | Postdoctoral Research Fellow
+# Lucy Ham | Theoretical Systems Biolgy | Postdoctoral Researcher
 
 ![image](profile.png)
 

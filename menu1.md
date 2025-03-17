@@ -1,86 +1,66 @@
 +++
 title = "Publications"
 hascode = true
-date = Date(2019, 3, 22)
-rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg)"
-
-tags = ["syntax", "code"]
+date = Date(2025, 3, 17)
+rss = "A list of publications by Dr. Lucy Ham, including journal articles and conference proceedings."
+tags = ["publications", "research", "academic"]
 +++
 
 
 # Publications
 
-\toc
+## Under Review
+- **2023**  
 
-## Live evaluation of code blocks
+  **L. Ham** and M. Jackson, *Finite model theory for pseudovarieties and universal algebra: preservation, definability and complexity*, *The Journal of Symbolic Logic*, [arXiv:2212.02653](https://arxiv.org/abs/2212.02653).
 
-If you would like to show code as well as what the code outputs, you only need to specify where the script corresponding to the code block will be saved.
+## Refereed Journal Publications and Conference Proceedings
+- **2025**  
 
-Indeed, what happens is that the code block gets saved as a script which then gets executed.
-This also allows for that block to not be re-executed every time you change something _else_ on the page.
+  **C. D. Madsen, A. Barbensi, S. Y. Zhang, L. Ham, A. David, D. E. V. Pires, M. P. H. Stumpf**, *The Topological Properties of the Protein Universe*, *Nature Communications* (to appear), [bioRxiv:2023.09.25.559443](https://www.biorxiv.org/content/10.1101/2023.09.25.559443v1).  
+ 
 
-Here's a simple example (change values in `a` to see the results being live updated):
+- **2024**  
 
-```julia:./exdot.jl
-using LinearAlgebra
-a = [1, 2, 3, 3, 4, 5, 2, 2]
-@show dot(a, a)
-println(dot(a, a))
-```
+  **L. Ham, T. Woodward, M. A. Coomer, M. P. H. Stumpf** (*corresponding author*), *Mapping, modeling, and reprogramming cell-fate decision-making systems*, *Annual Review of Biomedical Data Science* (to appear) [arXiv::2412.00667](https://arxiv.org/abs/2412.00667).  
 
-You can now show what this would look like:
+  **L. Ham, M. A. Coomer, K. Ocal, R. Grima, M. P. H. Stumpf**, *A stochastic vs deterministic perspective on the timing of cellular events*, *Nature Communications*, **15, 5286**.  
 
-\output{./exdot.jl}
+- **2022**  
 
-**Notes**:
-* you don't have to specify the `.jl` (see below),
-* you do need to explicitly use print statements or `@show` for things to show, so just leaving a variable at the end like you would in the REPL will show nothing,
-* only Julia code blocks are supported at the moment, there may be a support for scripting languages like `R` or `python` in the future,
-* the way you specify the path is important; see [the docs](https://tlienart.github.io/franklindocs/code/index.html#more_on_paths) for more info. If you don't care about how things are structured in your `/assets/` folder, just use `./scriptname.jl`. If you want things to be grouped, use `./group/scriptname.jl`. For more involved uses, see the docs.
+  **L. Ham\*, M. A. Coomer\*, M. P. H. Stumpf**, *The chemical Langevin equation for biochemical systems in dynamic environments*, *Journal of Chemical Physics*, **157 (9), 094105**.  
+  *(\*Joint first authorship)*  
 
-Lastly, it's important to realise that if you don't change the content of the code, then that code will only be executed _once_ even if you make multiple changes to the text around it.
+  **M. A. Coomer\*, L. Ham\*, M. P. H. Stumpf**, *Noise distorts the epigenetic landscape and shapes cell-fate decisions*, *Cell Systems*, **13(1), 83-102**.  
+   
 
-Here's another example,
+- **2021**  
 
-```julia:./code/ex2
-for i ∈ 1:5, j ∈ 1:5
-    print(" ", rpad("*"^i,5), lpad("*"^(6-i),5), j==5 ? "\n" : " "^4)
-end
-```
+  **L. Ham, M. Jackson, M. P. H. Stumpf**, *Pathway dynamics can delineate the sources of transcriptional noise in gene expression*, *eLife*, **10, e69324**.  
+  
 
-which gives the (utterly useless):
+- **2020**  
 
-\output{./code/ex2}
+  **L. Ham, D. Schnoerr, R. D. Brackston, M. P. H. Stumpf**, *Exactly solvable models of gene transcription*, *The Journal of Chemical Physics*, **152, 144106**.  
+  
+  **L. Ham\*, R. D. Brackston\*, M. P. H. Stumpf**, *Extrinsic noise and heavy-tailed laws in gene expression*, *Physical Review Letters*, **124, 108101**.  
+ 
+ - **2018** 
 
-note the absence of `.jl`, it's inferred.
+    **L. Ham, M. Jackson**, *Axiomatisability, preservation and hardness for hypergraph quasivarieties, Algebra Universalis*, **79 (2), 1-17**.
 
-You can also hide lines (that will be executed nonetheless):
+- **2017**  
 
-```julia:./code/ex3
-using Random
-Random.seed!(1) # hide
-@show randn(2)
-```
+    **L. Ham, M. Jackson**, *All or Nothing: toward a promise problem dichotomy for constraint problems*, *Principles and Practice of Constraint Programming (CP 2017)*, *Lecture Notes in Computer Science*, **10416, 139-156**.  
 
-\output{./code/ex3}
+    **L. Ham**, *Gap theorems for robust satisfiability: Boolean CSPs and beyond, Theoretical Computer Science*, **676, 69-91**.
 
+    **L. Ham**, *Relativised homomorphism preservation at the finite level, Studia Logica*, **105, 761-786**.
+  
 
-## Including scripts
+- **2016**  
 
-Another approach is to include the content of a script that has already been executed.
-This can be an alternative to the description above if you'd like to only run the code once because it's particularly slow or because it's not Julia code.
-For this you can use the `\input` command specifying which language it should be tagged as:
+  **L. Ham**, *A gap trichotomy for Boolean constraint problems: extending Schaefer’s Theorem*, *27th International Symposium on Algorithms and Computation (ISAAC 2016)*, **36:1-36:12**.  
+  
 
-
-\input{julia}{/_assets/scripts/script1.jl} <!--_-->
-
-
-these scripts can be run in such a way that their output is also saved to file, see `scripts/generate_results.jl` for instance, and you can then also input the results:
-
-\output{/_assets/scripts/script1.jl} <!--_-->
-
-which is convenient if you're presenting code.
-
-**Note**: paths specification matters, see [the docs](https://tlienart.github.io/franklindocs/code/index.html#more_on_paths) for details.
-
-Using this approach with the `generate_results.jl` file also makes sure that all the code on your website works and that all results match the code which makes maintenance easier.
+---

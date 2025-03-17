@@ -8,7 +8,7 @@ rss_pubdate = Date(2019, 5, 1)
 tags = ["syntax", "code", "image"]
 +++
 
-# More goodies
+# Teaching and Supervision 
 
 \toc
 
