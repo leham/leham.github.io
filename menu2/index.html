@@ -20,9 +20,13 @@
   <div id="menu">
     <ul>
       <li><a href="/">Home</a></li>
-      <li><a href="/menu1/">Code blocks</a></li>
-      <li><a href="/menu2/">More goodies</a></li>
-      <li><a href="/menu3/">Tags</a></li>
+      <li><a href="/menu1/">Publications</a></li>
+<<<<<<< HEAD
+      <li><a href="/menu2/">Teaching</a></li>
+=======
+      <li><a href="/menu2/">Teaching and Supervision</a></li>
+>>>>>>> 29b3941e0200fd5e86ae48d8a70f1ae553c51ac2
+      <li><a href="/menu3/">More</a></li>
     </ul>
   </div>
   <div id="main">
@@ -31,7 +35,7 @@
 
 <!-- Content appended here -->
 <div class="franklin-content">
-<h1 id="more_goodies"><a href="#more_goodies" class="header-anchor">More goodies</a></h1>
+<h1 id="teaching_and_supervision"><a href="#teaching_and_supervision" class="header-anchor">Teaching and Supervision </a></h1>
 <div class="franklin-toc"><ol><li><a href="#more_markdown_support">More markdown support</a></li><li><a href="#a_bit_more_highlighting">A bit more highlighting</a></li><li><a href="#more_customisation">More customisation</a><ol><li><a href="#custom_hfun">Custom &quot;hfun&quot;</a></li><li><a href="#custom_lx">Custom &quot;lx&quot;</a></li></ol></li></ol></div>
 <h2 id="more_markdown_support"><a href="#more_markdown_support" class="header-anchor">More markdown support</a></h2>
 <p>The Julia Markdown parser in Julia&#39;s stdlib is not exactly complete and Franklin strives to bring useful extensions that are either defined in standard specs such as Common Mark or that just seem like useful extensions.</p>
@@ -92,7 +96,7 @@ end</code></pre>
   var &#61; vname&#91;1&#93;
   return pagevar&#40;&quot;menu1&quot;, var&#41;
 end</code></pre>
-<p>Which you can use like this <code>&#123;&#123;m1fill title&#125;&#125;</code>: <strong>Lucy Ham</strong>. Of course  in this specific case you could also have used <code>&#123;&#123;fill title menu1&#125;&#125;</code>: <strong>Code blocks</strong>.</p>
+<p>Which you can use like this <code>&#123;&#123;m1fill title&#125;&#125;</code>: <strong>Lucy Ham</strong>. Of course  in this specific case you could also have used <code>&#123;&#123;fill title menu1&#125;&#125;</code>: <strong>Publications</strong>.</p>
 <p>Of course these examples are not very useful, in practice you might want to use it to generate actual HTML in a specific way using Julia code. For instance you can use it to customise how <a href="/menu3/#customising_tag_pages">tag pages look like</a>.</p>
 <p>A nice example of what you can do is in the <a href="https://juliasymbolics.github.io/SymbolicUtils.jl/api/">SymbolicUtils.jl manual</a> where they use a <code>hfun_</code> to generate HTML encapsulating the content of code docstrings, in a way doing something similar to what Documenter does. See <a href="https://github.com/JuliaSymbolics/SymbolicUtils.jl/blob/website/utils.jl">how they defined it</a>.</p>
 <p><strong>Note</strong>: the  output <strong>will not</strong> be reprocessed by Franklin, if you want to generate markdown which should be processed by Franklin, then use <code>return fd2html&#40;markdown, internal&#61;true&#41;</code> at the end.</p>
@@ -108,7 +112,7 @@ end</code></pre>
 <p>You can call the above with <code>\baz&#123;some string&#125;</code>: SOME STRING.</p>
 <p><strong>Note</strong>: the output <strong>will be</strong> reprocessed by Franklin, if you want to avoid this, then escape the output by using <code>return &quot;~~~&quot; * s * &quot;~~~&quot;</code> and it will be plugged  in as is in the HTML.</p>
 <div class="page-foot">
-    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Septimia Zenobia. Last modified: March 14, 2025.
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Septimia Zenobia. Last modified: March 17, 2025.
     Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
 </div>
 </div><!-- CONTENT ENDS HERE -->
