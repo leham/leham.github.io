@@ -40,7 +40,7 @@ I coordinate and lecture this large service subject for biomedicine students. Th
 **The Fundamentals of Whole Cell Modelling: Stochastic Simulation in Julia**  
 *AMSI BioInfoSummer Workshop, 2024 - The University of Melbourne*
 
-In conjunction with Dr. Kaan Öcal and Dr. Augustinas Šukys, developed and delivered interactive materials on stochastic modelling of biochemical systems using the Julia programming language, introducing participants to practical implementation of stochastic algorithms for cellular simulations.
+In conjunction with Dr. Kaan Öcal and Dr. Augustinas Šukys, I developed and delivered interactive materials on stochastic modelling of biochemical systems using the Julia programming language, introducing participants to practical implementation of stochastic algorithms for cellular simulations.
 
 ## Previous Teaching Experience
 
