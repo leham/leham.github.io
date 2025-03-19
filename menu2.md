@@ -13,8 +13,8 @@ tags = ["syntax", "code", "image"]
 
 
 ### Current Students
-- **Taylor Woodward** (PhD Candidate)
-- **Yujing Liu** (PhD Candidate)
+- **Taylor Woodward** (PhD Candidate, joint with Prof Michael Stumpf)
+- **Yujing Liu** (PhD Candidate, joint with Prof Michael Stumpf)
 
 ### Research Associates
 - **Tom Cummings**
