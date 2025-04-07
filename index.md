@@ -16,7 +16,7 @@ With a PhD in pure mathematics—spanning logic, algebra, and theoretical comput
 # Contact
 - [Email](mailto:lucy.ham@unimelb.edu.au)  
 - [Google Scholar](https://scholar.google.com.au/citations?user=F32lPnQAAAAJ&hl=en)  
-- [LinkedIn](https://linkedin.com/in/lucy-ham-6a72283b)
+- <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/lucy-ham-6a72283b)
 - [CV](https://leham.github.io/CV_Lucy_Ham.pdf)
 
 
