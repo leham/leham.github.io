@@ -11,7 +11,7 @@ tags = ["publications", "research", "academic"]
 
 ## Under Review
 
- Y. Liu, A. Zanca, M. P. H. Stumpf, **L. Ham** , *Molecular noise modulates transitions in the cell-fate differentiation landscape*, *Submitted*, [bioaRxiv:2025.07.28.667061](https://doi.org/10.1101/2025.07.28.667061).
+  Y. Liu, A. Zanca, M. P. H. Stumpf, **L. Ham** , *Molecular noise modulates transitions in the cell-fate differentiation landscape*, *Submitted*, [bioaRxiv:2025.07.28.667061](https://doi.org/10.1101/2025.07.28.667061).
 
   **L. Ham** and M. Jackson, *Finite model theory for pseudovarieties and universal algebra: preservation, definability and complexity*, *The Journal of Symbolic Logic*, [arXiv:2212.02653](https://arxiv.org/abs/2212.02653).
 
