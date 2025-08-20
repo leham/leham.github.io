@@ -26,7 +26,7 @@ tags = ["publications", "research", "academic"]
 
   **L. Ham**, T. Woodward, M. A. Coomer, M. P. H. Stumpf, *Mapping, modeling, and reprogramming cell-fate decision-making systems*, *Annual Review of Biomedical Data Science*, **8**.
 
-  **L. Ham**, M. A. Coomer, K. Ocal, R. Grima, M. P. H. Stumpf, *A stochastic vs deterministic perspective on the timing of cellular events*, *Nature Communications*, **15, 5286**.  
+  **L. Ham**, M. A. Coomer, K. Öcal, R. Grima, M. P. H. Stumpf, *A stochastic vs deterministic perspective on the timing of cellular events*, *Nature Communications*, **15, 5286**.  
 
 - **2022**  
 
