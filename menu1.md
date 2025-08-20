@@ -10,19 +10,21 @@ tags = ["publications", "research", "academic"]
 # Publications
 
 ## Under Review
-- **2023**  
+
+ Y. Liu, A. Zanca, M. P. H. Stumpf, **L. Ham** , *Molecular noise modulates transitions in the cell-fate differentiation landscape*, *Submitted*, [bioaRxiv:2025.07.28.667061](https://doi.org/10.1101/2025.07.28.667061).
 
   **L. Ham** and M. Jackson, *Finite model theory for pseudovarieties and universal algebra: preservation, definability and complexity*, *The Journal of Symbolic Logic*, [arXiv:2212.02653](https://arxiv.org/abs/2212.02653).
 
 ## Refereed Journal Publications and Conference Proceedings
 - **2025**  
 
-  C. D. Madsen, A. Barbensi, S. Y. Zhang, **L. Ham**, A. David, D. E. V. Pires, M. P. H. Stumpf, *The Topological Properties of the Protein Universe*, *Nature Communications* (to appear), [bioRxiv:2023.09.25.559443](https://www.biorxiv.org/content/10.1101/2023.09.25.559443v1).  
+
+  C. D. Madsen, A. Barbensi, S. Y. Zhang, **L. Ham**, A. David, D. E. V. Pires, M. P. H. Stumpf, *The Topological Properties of the Protein Universe*, *Nature Communications*, **16(1), 7503**.
  
 
 - **2024**  
 
-  **L. Ham**, T. Woodward, M. A. Coomer, M. P. H. Stumpf, *Mapping, modeling, and reprogramming cell-fate decision-making systems*, *Annual Review of Biomedical Data Science* (to appear) [arXiv::2412.00667](https://arxiv.org/abs/2412.00667).  
+  **L. Ham**, T. Woodward, M. A. Coomer, M. P. H. Stumpf, *Mapping, modeling, and reprogramming cell-fate decision-making systems*, *Annual Review of Biomedical Data Science*, **8**.
 
   **L. Ham**, M. A. Coomer, K. Ocal, R. Grima, M. P. H. Stumpf, *A stochastic vs deterministic perspective on the timing of cellular events*, *Nature Communications*, **15, 5286**.  
 
