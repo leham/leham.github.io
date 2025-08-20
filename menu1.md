@@ -22,7 +22,7 @@ tags = ["publications", "research", "academic"]
 
   C. D. Madsen, A. Barbensi, S. Y. Zhang, **L. Ham**, A. David, D. E. V. Pires, M. P. H. Stumpf, *The Topological Properties of the Protein Universe*, *Nature Communications*, **16(1), 7503**.
 
-    **L. Ham**, T. Woodward, M. A. Coomer, M. P. H. Stumpf, *Mapping, modeling, and reprogramming cell-fate decision-making systems*, *Annual Review of Biomedical Data Science*, **8**.
+  **L. Ham**, T. Woodward, M. A. Coomer, M. P. H. Stumpf, *Mapping, modeling, and reprogramming cell-fate decision-making systems*, *Annual Review of Biomedical Data Science*, **8**.
  
 
 - **2024**  
