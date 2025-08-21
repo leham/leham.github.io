@@ -1,26 +1,24 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
+
 +++
-author = "Septimia Zenobia"
+author = "Lucy Ham"
 mintoclevel = 2
 
-# uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
-# please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
-# prepath = "yourproject"
+# Your site is a **user page** (leham.github.io) → prepath must be empty.
+prepath = ""
 
-# Add here files or directories that should be ignored by Franklin, otherwise
-# these files might be copied and, if markdown, processed by Franklin which
-# you might not want. Indicate directories by ending the name with a `/`.
-# Base files such as LICENSE.md and README.md are ignored by default.
+# Ignore list (keep as is / add more if you need)
 ignore = ["node_modules/"]
 
-# RSS (the website_{title, descr, url} must be defined to get RSS)
+# RSS (optional; these 3 fields are used for RSS and some templates)
 generate_rss = true
-website_title = "Franklin Template"
-website_descr = "Example website using Franklin"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_title = "Lucy Ham"
+website_descr = "Research, publications, notes"
+website_url   = "https://leham.github.io"
 +++
+
 
 <!--
 Add here global latex commands to use throughout your pages.
