@@ -11,7 +11,9 @@ tags = ["publications", "research", "academic"]
 
 ## Under Review
 
-- **2025**  
+- **2025**
+
+  **L. Ham**, M. Jackson, A. Sukys, M. P. H. Stumpf, *Intercellular Signaling drives robust cell fate and patterning in multicellular organisms*, *Preprint*, [bioaRxiv:2025.10.09.681513](https://doi.org/10.1101/2025.10.09.681513).
 
   Y. Liu, A. Zanca, M. P. H. Stumpf, **L. Ham** , *Molecular noise modulates transitions in the cell-fate differentiation landscape*, *Submitted*, [bioaRxiv:2025.07.28.667061](https://doi.org/10.1101/2025.07.28.667061).
 
