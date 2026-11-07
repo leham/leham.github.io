@@ -20,7 +20,7 @@ With a PhD in pure mathematics—spanning logic, algebra, and theoretical comput
 
  ~~~<i class="fab fa-linkedin"></i>~~~  [LinkedIn](https://linkedin.com/in/lucy-ham-6a72283b)
 
- ~~~<i class="fa-regular fa-file"></i>~~~ [CV](https://leham.github.io/CV_Lucy_Ham.pdf)
+ ~~~<i class="fa-regular fa-file"></i>~~~ [CV](https://leham.github.io/CV_LucyHam.pdf)
 
 
 
